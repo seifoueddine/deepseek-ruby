@@ -1,7 +1,3 @@
-Here is the updated `README.md` file with the provided content:
-
-[file name]: README.md
-[file content begin]
 # Deepseek Ruby Client
 
 [![Gem Version](https://badge.fury.io/rb/deepseek-ruby.svg)](https://badge.fury.io/rb/deepseek-ruby)
